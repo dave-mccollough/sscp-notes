@@ -8,7 +8,9 @@
 ## Domains
 
 ### Security Operations and Administration
+
 - [CIA Triad](1-security-operations-adminiistration/1-cia-triad.md)
+- [Security Controls](1-security-operations-adminiistration/2-security-controls.md)
 
 ### Access Control
 
