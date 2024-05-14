@@ -12,8 +12,11 @@
 - [CIA Triad](1-security-operations-adminiistration/1-cia-triad.md)
 - [Security Controls](1-security-operations-adminiistration/2-security-controls.md)
 - [Asset Management](1-security-operations-adminiistration/3-asset-management.md)
+- [Personnel Security](1-security-operations-adminiistration/3-personnel-security.md)
 
 ### Access Control
+
+
 
 
 ### Risk Identification, Monitoring and Analysis
